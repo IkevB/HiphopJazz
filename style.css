@@ -76,12 +76,12 @@ body {
 
 .menuitem a:hover {
 	background-color: #1188cc;
-	color: #fff;
+	color: #cc00ff;
 }
 
 .active {
 	background-color: #cc00ff;
-	color: #fff;
+	color: #cc00ff;
 }
 
 table, td, th, tr {
